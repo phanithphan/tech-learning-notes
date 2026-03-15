@@ -18,3 +18,4 @@ Static IP address: IP address that doesn't change, manually config, hard to mana
 Automatic Private IP Addressing (APIPA) : an IPv4 link-local address.
 Internet Connection Types : Satellite networking, Fiber, Cable, DSL, Cellular networks, Wireless Internet Service Provider(WISP).
 Network Types : LAN, WAN, PAN, MAN, SAN, WLAN.
+Network Tools : Cable crimpers, Modular connectors, Wi-Fi analyzer, Tone generator, Punch down tool, Cable testers, Loopback plugs, Taps and port mirrors, SPAN-Switched Port ANalyser.
