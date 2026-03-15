@@ -17,3 +17,4 @@ Assigning IP Addresses : every device needs a unique IP address, Subnet mask use
 Static IP address: IP address that doesn't change, manually config, hard to manage (change to DHCP reservations for better manage)
 Automatic Private IP Addressing (APIPA) : an IPv4 link-local address.
 Internet Connection Types : Satellite networking, Fiber, Cable, DSL, Cellular networks, Wireless Internet Service Provider(WISP).
+Network Types : LAN, WAN, PAN, MAN, SAN, WLAN.
